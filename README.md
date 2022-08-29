@@ -1,0 +1,2 @@
+# QtOpenGLTriangle
+在QT中使用openGL绘制一个彩色的三角形
