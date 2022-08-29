@@ -1,0 +1,10 @@
+﻿  Reading Qt configuration (D:\Qt\Qt5.14.2\5.14.2\msvc2017_64\bin\qmake.exe)
+  uic QtOpenGLTriangle.ui
+  rcc QtOpenGLTriangle.qrc
+  moc QtOpenGLTriangle.h
+   RCC: Warning: No resources in 'D:\Work\OpenGL\QT\QtOpenGLTriangle\QtOpenGLTriangle\QtOpenGLTriangle.qrc'.
+  main.cpp
+  QtOpenGLTriangle.cpp
+  qrc_QtOpenGLTriangle.cpp
+  moc_QtOpenGLTriangle.cpp
+  QtOpenGLTriangle.vcxproj -> D:\Work\OpenGL\QT\QtOpenGLTriangle\x64\Debug\QtOpenGLTriangle.exe
